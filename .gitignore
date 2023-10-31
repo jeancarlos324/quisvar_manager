@@ -1,0 +1,9 @@
+node_modules
+.env
+database/.env
+database
+uploads/**
+file_model/**
+file_review/**
+.scannerwork
+public/**
